@@ -9,7 +9,7 @@ Hello! My name is Tanu Sharma, I am a 4th-year Undergraduate Student currently s
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
-- [License](#license)
+
 
 ## Description
 The Food Munch website is designed to provide users with a convenient way to order delicious and healthy food online. It offers a wide range of food items, including starters, soups, main courses, noodles, salads, and cookies. The website also emphasizes the use of fresh and organic ingredients for a healthier dining experience.
@@ -37,7 +37,6 @@ To run the Food Munch website locally, follow these steps:
 - The website design and layout are based on the Bootstrap framework and utilize the Bootstrap components.
 - The images used in the website are sourced from [Unsplash](https://unsplash.com) and [Font Awesome](https://fontawesome.com).
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
 
 Feel free to contribute to the project by submitting bug reports or feature requests. Happy ordering!
